@@ -1,0 +1,2 @@
+# Crop and Fertilizer Recommendation System
+This project is a machine learning-based Crop and Fertilizer Recommendation System. The system takes in environmental parameters such as temperature, humidity, pH, and other soil-related information to recommend suitable crops for a specific region and provide fertilizer recommendations accordingly.
